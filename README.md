@@ -158,8 +158,9 @@ URL: 'http://127.0.0.1:8000/items/Item1' \
 Body: 
 ```shell
 {
-    "updated": 1
+    "description": "Updated Description"
 }
+
 ```
 
 5. Delete an Item:
